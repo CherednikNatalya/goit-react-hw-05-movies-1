@@ -21,7 +21,10 @@ export const Header = styled.header`
   }
 `;
 
-
+export const Logo = styled.p`
+  font-weight: 700;
+  margin: 0;
+`;
 
 export const Link = styled(NavLink)`
   padding: 8px 16px;

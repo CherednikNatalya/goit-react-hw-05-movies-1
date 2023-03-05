@@ -1,6 +1,6 @@
 export const STATUS = {
     idle: 'idle',
-    loading: 'loading',
+    pending: 'pending',
     success: 'success',
-    error: 'error',
+    rejected: 'rejected',
   };
